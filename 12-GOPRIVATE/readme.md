@@ -29,7 +29,7 @@ vim ~/.gitconfig => edita as configurações gerais do github (serve para qq pro
 Adicionar as linhas abaixo no arquivo
 
 [url "ssh://git@github.com/"]
-  instedOf=https://github.com/
+  insteadOf = https://github.com/
 
 ======================
 Vendor
